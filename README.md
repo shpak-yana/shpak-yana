@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Yana
 
-**Data Analyst** with a strong foundation in SQL, Python, and Power BI.  
 Currently based in the UK 🇬🇧, actively looking for **Data Analyst** roles.
 
 I believe that data is only valuable when it drives **business decisions**. My goal is to bridge the gap between raw numbers and actionable insights, helping companies grow through evidence-based strategies.
