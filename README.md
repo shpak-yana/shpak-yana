@@ -11,7 +11,7 @@ I believe that data is only valuable when it drives **business decisions**. My g
 | **Category**         | **Tools & Technologies**                                                                 |
 |-----------------------|------------------------------------------------------------------------------------------|
 | **Languages**         | Python (Pandas, Matplotlib), SQL (PostgreSQL, BigQuery)                                 |
-| **Visualisation**     | Power BI (DAX, Power Query) — *currently my main focus* <br> Tableau — *learning*      |
+| **Visualisation**     | Power BI (DAX, Power Query) — *currently my main focus* <br> Tableau      |
 | **Databases**         | PostgreSQL, MySQL, Google BigQuery                                                      |
 | **Data Processing**   | Excel (Power Query, Pivot Tables), Jupyter Notebooks                                    |
 | **Version Control**   | Git & GitHub (basic)                                                                    |
