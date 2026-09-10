@@ -33,6 +33,16 @@ I believe that data is only valuable when it drives **business decisions**. My g
 
 *I focus on end‑to‑end projects using **UK‑based public datasets** (ONS, data.gov.uk, NHS, TfL) to demonstrate commercial awareness.*
 
+#### 🏨 [Hotel Booking Demand Analysis](https://github.com/shpak-yana/Hotel-Booking-Demand-Analysis)
+**Python • Pandas • Matplotlib • Seaborn • Tableau**
+
+Analysed ~120,000 hotel bookings (City & Resort hotels) to uncover cancellation patterns, seasonality, guest demographics and overbooking behaviour.
+
+**Key insights & recommendations:**
+- Bookings with children have significantly higher cancellation rates → suggested flexible family policies
+- Portugal and UK are the top source markets
+- 15% of bookings had room type mismatches (overbooking indicator)
+- Clear seasonality patterns for staffing and pricing optimisation
 
 
 ---
@@ -52,7 +62,7 @@ I am open to **remote, hybrid, or on‑site** positions in London, Manchester, B
 
 - **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/yana-shpak/)  
 - **Email:** yana.shpak@yahoo.com  
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com) — *coming soon*  
+- **Portfolio:** [Projects list](https://github.com/shpak-yana/data_analyses_portfolio/tree/main) 
 
 I’m always happy to chat about data, projects, or potential opportunities. Feel free to reach out! 😊
 
