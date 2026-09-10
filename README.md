@@ -50,7 +50,7 @@ I am open to **remote, hybrid, or on‑site** positions in London, Manchester, B
 
 ### 📫 Let’s connect
 
-- **LinkedIn:** [linkedin.com](www.linkedin.com/in/yana-shpak)  
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/yana-shpak/)  
 - **Email:** yana.shpak@yahoo.com  
 - **Portfolio:** [yourwebsite.com](https://yourwebsite.com) — *coming soon*  
 
