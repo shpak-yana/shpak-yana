@@ -14,9 +14,9 @@ I believe that data is only valuable when it drives **business decisions**. My g
 | **Visualisation**     | Power BI (DAX, Power Query), Tableau      |
 | **Databases**         | PostgreSQL, MySQL, Google BigQuery                                                      |
 | **Data Processing**   | Excel (Power Query, Pivot Tables), Jupyter Notebooks                                    |
-| **Version Control**   | Git & GitHub (basic)                                                                    |
+| **Version Control**   | Git & GitHub                                                                   |
 | **Cloud (in progress)**| AWS / Azure fundamentals — *planning to add this year*                                 |
-| **Statistics**        | *Currently studying:* hypothesis testing, A/B testing, regression analysis              |
+| **Statistics**        | hypothesis testing, A/B testing, regression analysis              |
 
 ---
 
