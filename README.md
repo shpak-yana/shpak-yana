@@ -33,6 +33,17 @@ I believe that data is only valuable when it drives **business decisions**. My g
 
 *I focus on end‑to‑end projects using **UK‑based public datasets** (ONS, data.gov.uk, NHS, TfL) to demonstrate commercial awareness.*
 
+#### 🚦 [UK Road Safety — Local Authority Performance Analytics](https://github.com/shpak-yana/UK-Road-Safety-Local-Authority-Performance-Analytics)
+**Python • Pandas • DuckDB • Power BI • Jupyter**
+
+Analysed 493,000+ collisions and 544,000 casualties (STATS19 2021–2025) enriched with IMD 2025 to benchmark Local Authority performance, identify high-risk areas and profile vulnerable road users.
+
+**Key insights & recommendations:**
+- Poorest IMD decile has ~1.9× more casualties than the wealthiest, yet KSI% stays almost flat (19–21.5%) → problem is frequency, not severity
+- Motorcyclists: only 7% of casualties but 32.12% KSI rate (1.6× average)
+- KSI% rises sharply with age: 16.9% (0–15) → 36.2% (75+)
+- Collision volume stable, but severe share rose from 18.5% to 22.4% (2021–2025)
+
 #### 🏨 [Hotel Booking Demand Analysis](https://github.com/shpak-yana/Hotel-Booking-Demand-Analysis)
 **Python • Pandas • Matplotlib • Seaborn • Tableau**
 
