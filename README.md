@@ -1,80 +1,54 @@
 # 👋 Hi, I’m Yana
 
-Currently based in the UK 🇬🇧, actively looking for **Data Analyst** roles.
+Data Analyst based in Belfast, UK.  
+Open to remote / hybrid / on-site roles. Full right to work.
 
-I believe that data is only valuable when it drives **business decisions**. My goal is to bridge the gap between raw numbers and actionable insights, helping companies grow through evidence-based strategies.
+I used to be a Java developer. After a career break I went all-in on data — and I genuinely love turning messy real-world numbers into clear decisions.
 
----
-
-### 🔧 Technical Skills
-
-| **Category**         | **Tools & Technologies**                                                                 |
-|-----------------------|------------------------------------------------------------------------------------------|
-| **Languages**         | Python (Pandas, Matplotlib), SQL (PostgreSQL, BigQuery, DuckDB)                                 |
-| **Visualisation**     | Power BI (DAX, Power Query), Tableau      |
-| **Databases**         | PostgreSQL, MySQL, Google BigQuery                                                      |
-| **Data Processing**   | Excel (Power Query, Pivot Tables), Jupyter Notebooks                                    |
-| **Version Control**   | Git & GitHub                                                                   |
-| **Cloud (in progress)**| AWS / Azure fundamentals — *planning to add this year*                                 |
-| **Statistics**        | hypothesis testing, A/B testing, regression analysis              |
+I’m looking for a **Data Analyst** or **Analytics Engineer** role where I can keep growing (especially into dbt + Snowflake).
 
 ---
 
-### 📚 What I’m currently learning
+### What I’m good at
 
-- **Statistics** — applying statistical methods to real-world business problems.
-- **dbt & Cloud** — to prepare for modern data stacks used in UK companies.
+- Building end-to-end analytical pipelines  
+- Proper A/B testing and statistical thinking (not just “p < 0.05”)  
+- Dimensional modelling and clean data products  
+- Explaining insights so non-technical people actually use them
 
----
-
-### 📂 Featured Projects
-
-*I focus on end‑to‑end projects using **UK‑based public datasets** (ONS, data.gov.uk, NHS, TfL) to demonstrate commercial awareness.*
-
-#### 🚦 [UK Road Safety — Local Authority Performance Analytics](https://github.com/shpak-yana/UK-Road-Safety-Local-Authority-Performance-Analytics)
-**Python • Pandas • DuckDB • Power BI • Jupyter**
-
-Analysed 493,000+ collisions and 544,000 casualties (STATS19 2021–2025) enriched with IMD 2025 to benchmark Local Authority performance, identify high-risk areas and profile vulnerable road users.
-
-**Key insights & recommendations:**
-- Poorest IMD decile has ~1.9× more casualties than the wealthiest, yet KSI% stays almost flat (19–21.5%) → problem is frequency, not severity
-- Motorcyclists: only 7% of casualties but 32.12% KSI rate (1.6× average)
-- KSI% rises sharply with age: 16.9% (0–15) → 36.2% (75+)
-- Collision volume stable, but severe share rose from 18.5% to 22.4% (2021–2025)
-
-#### 🏨 [Hotel Booking Demand Analysis](https://github.com/shpak-yana/Hotel-Booking-Demand-Analysis)
-**Python • Pandas • Matplotlib • Seaborn • Tableau**
-
-Analysed ~120,000 hotel bookings (City & Resort hotels) to uncover cancellation patterns, seasonality, guest demographics and overbooking behaviour.
-
-**Key insights & recommendations:**
-- Bookings with children have significantly higher cancellation rates → suggested flexible family policies
-- Portugal and UK are the top source markets
-- 15% of bookings had room type mismatches (overbooking indicator)
-- Clear seasonality patterns for staffing and pricing optimisation
-
+**Stack I use most:** Python, SQL, DuckDB, Power BI, Tableau  
+**Currently diving deep into:** dbt + Snowflake
 
 ---
 
-### 🎯 What I’m looking for
+### Projects I’m proud of
 
-A **Data Analyst** role in the UK where I can:
-- Apply my analytical skills to solve real business problems.
-- Learn from experienced mentors and contribute to a data‑driven culture.
-- Grow into a well‑rounded analyst with strong statistical and cloud knowledge.
+**[UK Road Safety Analytics](https://github.com/shpak-yana/UK-Road-Safety-Local-Authority-Performance-Analytics)**  
+493k collisions + IMD 2025. Built a star schema in DuckDB, risk-adjusted metrics, Power BI dashboard.  
+Biggest finding: the poorest areas have almost 2× more casualties, but severity stays flat — it’s a frequency problem.
 
-I am open to **remote, hybrid, or on‑site** positions in London, Manchester, Birmingham, or anywhere in the UK.
+**[Discount Strategy A/B Test](https://github.com/shpak-yana/Discount-Strategy-A-B-Test)**  
+Full experiment design on 785k transactions (stratification, power analysis, bootstrap, multiple testing correction).  
+Recommended *against* rolling out the discount — the evidence just wasn’t strong enough. I think that’s important.
 
----
-
-### 📫 Let’s connect
-
-- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/yana-shpak/)  
-- **Email:** yana.shpak@yahoo.com  
-- **Portfolio:** [Projects list](https://github.com/shpak-yana/data_analyses_portfolio/tree/main) 
-
-I’m always happy to chat about data, projects, or potential opportunities. Feel free to reach out! 😊
+**[Hotel Booking Analysis](https://github.com/shpak-yana/Hotel-Booking-Demand-Analysis)**  
+120k bookings → cancellation drivers, seasonality, overbooking signals + Tableau dashboards.
 
 ---
 
-*“Data is the new oil, but it’s useless without refining – and I’m here to refine it.”*
+### What I’m building next
+
+A proper modern data stack project: public UK data → Snowflake → dbt (with tests & docs) → clean marts.  
+I want to move from “great analysis” to “reliable data products that teams can trust every day”.
+
+---
+
+### Let’s talk
+
+I’m happy to walk through any project, discuss trade-offs, or just chat about data.
+
+- LinkedIn: [linkedin.com/in/yana-shpak](https://www.linkedin.com/in/yana-shpak/)  
+- Email: [yana.shpak@yahoo.com](mailto:yana.shpak@yahoo.com)  
+- All projects: [portfolio](https://github.com/shpak-yana/data_analyses_portfolio)
+
+Looking forward to hearing from you.
